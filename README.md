@@ -14,3 +14,9 @@ React 개발 도구를 사용하여 RESTful API의 데이터를 활용하는 간
 - [ ] 메일 보내기
 - [ ] 회신
 - [ ] 휴지통으로 이동
+
+### Install
+
+```bash
+yarn add gh-pages
+```
