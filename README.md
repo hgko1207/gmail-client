@@ -18,5 +18,7 @@ React 개발 도구를 사용하여 RESTful API의 데이터를 활용하는 간
 ### Install
 
 ```bash
+yarn add react-router-dom
 yarn add gh-pages
+yarn add redux react-redux
 ```
